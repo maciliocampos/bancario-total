@@ -1,4 +1,4 @@
-# Painel WhatsApp Sender com Integração LM Studio
+# Painel WhatsApp Bancário Total com Integração LM Studio
 
 Um painel completo para WhatsApp que permite envio de mensagens em massa e resposta automática com IA usando LM Studio.
 
